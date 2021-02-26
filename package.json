@@ -51,7 +51,7 @@
     "@daostack/arc-hive": "0.0.1-rc.4",
     "ethereumjs-wallet": "^0.6.3",
     "fstream": "^1.0.12",
-    "ganache-cli": "6.9.0",
+    "ganache-cli": "^6.12.2",
     "hdwallet-accounts": "0.0.1",
     "inquirer": "^6.2.2",
     "jsonschema": "^1.2.4",
@@ -66,7 +66,7 @@
     "yargs": "^12.0.2"
   },
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "command-line-args": "^5.0.2",
     "command-line-usage": "^5.0.5",
     "dotenv": "^7.0.0",
